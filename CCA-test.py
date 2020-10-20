@@ -4,17 +4,17 @@ print("Welcome to DHS! Please answer the following questions truthfully and we'l
 print("Please respond with a number 1 - 5, where 1 is strongly disagree and 5 is strongly agree.")
 print()
 
-sports1 = input("I love being outdoors.")
+sports1 = input("I love being outdoors, and do not like it indoors at all.")
 
-outdoor1 = input("I am pysically strong")
+outdoor1 = input("I am pysically strong, and have a interest in sports")
 
-music1 = input("I can see colours in my mind when i hear music.")
+music1 = input("I can see colours in my mind when i hear music, and feel very energised.")
 
 sports2 = input("I like to sweat")
 
 outdoor2 = input("I like the sun!!!")
 
-music2 = input("I play a musical instrument well.")
+music2 = input("I play a musical instrument well, and like it a lot.")
 
 sports3 = ("I like to exercise.")
 
