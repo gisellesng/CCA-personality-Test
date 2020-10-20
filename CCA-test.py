@@ -6,7 +6,7 @@ print()
 
 sports1 = input("I love being outdoors.")
 
-outdoor1 = input("I am physically strong")
+outdoor1 = input("I am pysically strong")
 
 music1 = input("I can see colours in my mind when i hear music.")
 
@@ -16,10 +16,15 @@ outdoor2 = input("I like the sun!!!")
 
 music2 = input("I play a musical instrument well.")
 
+sports3 = ("I like to exercise.")
 
-sports_final = int(sports1) + int(sports2)
-outdoor_final = int(outdoor1) + int(outdoor2)
-music_final = int(music1)+ int(music2)
+outdoor3 = ("I like nature.")
+
+music3 = ("I like music.")
+
+sports_final = int(sports1) + int(sports2) + int(sport3)
+outdoor_final = int(outdoor1) + int(outdoor2) + int(outdoor3)
+music_final = int(music1)+ int(music2) + int(music3)
 
 print()
 
